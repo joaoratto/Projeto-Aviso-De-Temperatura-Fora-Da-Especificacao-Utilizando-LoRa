@@ -1,0 +1,12 @@
+Programar módulo
+https://www.youtube.com/watch?v=FB-ePscCcOU
+
+
+
+
+módulo Módulo Sensor de Tensão AC – ZMPT101B
+https://portal.vidadesilicio.com.br/modulo-sensor-tensao-arduino/
+
+
+Placa dev ESP32
+https://embarcados.com.br/introducao-a-placa-esp32-c6-devkitc-1-ideal-para-iot/
