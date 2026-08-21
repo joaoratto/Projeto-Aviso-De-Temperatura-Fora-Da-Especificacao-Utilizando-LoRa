@@ -3230,7 +3230,7 @@
 			(uuid "cc077357-b46e-4f4c-8da4-54b5ece61a73")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR016")
 					(unit 1)
@@ -3340,7 +3340,7 @@
 			(uuid "0d542d89-4e62-4a77-aab1-5307731331b9")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "Q1")
 					(unit 1)
@@ -3431,7 +3431,7 @@
 			(uuid "3a0dc44b-60f6-43a4-8328-544c41cfd1ce")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "U1")
 					(unit 1)
@@ -3509,7 +3509,7 @@
 			(uuid "70ae4b6e-cc18-4d68-a06c-1f2b2a0657d8")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR05")
 					(unit 1)
@@ -3587,7 +3587,7 @@
 			(uuid "06bfee31-5393-4038-b8f0-3de4a1976a4a")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR020")
 					(unit 1)
@@ -3669,7 +3669,7 @@
 			(uuid "85a9b37b-170f-4398-b3a5-25fd4ec21396")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "J2")
 					(unit 1)
@@ -3757,7 +3757,7 @@
 			(uuid "37c9ae32-ab5b-466b-b801-18de8832028b")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "J3")
 					(unit 1)
@@ -3835,7 +3835,7 @@
 			(uuid "80d0e816-4ce1-4d10-8551-56899aa05540")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR022")
 					(unit 1)
@@ -3915,7 +3915,7 @@
 			(uuid "c49e9cf8-e0f9-462d-b835-f6069c1bc623")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "R2")
 					(unit 1)
@@ -4085,7 +4085,7 @@
 			(uuid "217a514a-1ae2-443a-b2f4-26868a7e7699")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "U3")
 					(unit 1)
@@ -4163,7 +4163,7 @@
 			(uuid "5205283f-edb0-4b02-8168-dd9e676db410")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR04")
 					(unit 1)
@@ -4245,7 +4245,7 @@
 			(uuid "b2a30df9-f7e9-463d-ad95-8c50bb309b5c")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "J1")
 					(unit 1)
@@ -4323,7 +4323,7 @@
 			(uuid "5e0dbe48-78ba-46cc-8447-fd0211c18cac")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR018")
 					(unit 1)
@@ -4405,7 +4405,7 @@
 			(uuid "38311e57-0587-4b9b-a393-30ddbed645a1")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "BZ1")
 					(unit 1)
@@ -4509,7 +4509,7 @@
 			(uuid "bbc9c085-7f72-4ca9-ab38-02445712bebb")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "U2")
 					(unit 1)
@@ -4587,7 +4587,7 @@
 			(uuid "d86b2e1b-ed30-4648-a95b-3ea78cbc67f9")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR011")
 					(unit 1)
@@ -4665,7 +4665,7 @@
 			(uuid "fba1273d-9272-4c23-9b19-988ce746ee51")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR08")
 					(unit 1)
@@ -4743,7 +4743,7 @@
 			(uuid "58716c5e-4cd7-4100-974e-195f758d5f56")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR013")
 					(unit 1)
@@ -4821,7 +4821,7 @@
 			(uuid "27bc1b8e-609f-423b-b4e5-295cfb2b0c1e")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR021")
 					(unit 1)
@@ -4899,7 +4899,7 @@
 			(uuid "b3d6e7ac-b18f-442d-972a-4f2020ca141d")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR019")
 					(unit 1)
@@ -4977,7 +4977,7 @@
 			(uuid "7e2db008-1f97-4fff-a6b5-69246c0dccf6")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR07")
 					(unit 1)
@@ -5059,7 +5059,7 @@
 			(uuid "c36158e2-07b8-4819-8695-cad64e52431b")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "C1")
 					(unit 1)
@@ -5137,7 +5137,7 @@
 			(uuid "589f1504-5325-40e7-b13d-94ebc0255b63")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR09")
 					(unit 1)
@@ -5215,7 +5215,7 @@
 			(uuid "e8d9fe47-c4cf-41ed-9f94-2f6639f88542")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR017")
 					(unit 1)
@@ -5293,7 +5293,7 @@
 			(uuid "53863853-111e-4107-8384-b712cc2659dc")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR03")
 					(unit 1)
@@ -5373,7 +5373,7 @@
 			(uuid "3a4b4caf-2ed1-4619-9e89-0d0d93288bbf")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "R1")
 					(unit 1)
@@ -5451,7 +5451,7 @@
 			(uuid "1f29e6a4-9809-4ad8-a8ef-96f7e11fa795")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR010")
 					(unit 1)
@@ -5529,7 +5529,7 @@
 			(uuid "58c361ee-d761-461a-97a4-2c140e2f841f")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR014")
 					(unit 1)
@@ -5607,7 +5607,7 @@
 			(uuid "2cb3946d-9cb2-4153-a126-3629e95c969c")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR015")
 					(unit 1)
@@ -5685,7 +5685,7 @@
 			(uuid "be1be18e-174c-4d0a-b28b-3763bd3963b8")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR012")
 					(unit 1)
@@ -5763,7 +5763,7 @@
 			(uuid "7f534761-b0a3-453f-90c1-8bb566a04606")
 		)
 		(instances
-			(project "Aviso de Baixa Tensão Utilizando LoRa"
+			(project "Central de Leitura"
 				(path "/e5dceb8f-98d4-488c-b1a7-66d4f7184f61"
 					(reference "#PWR06")
 					(unit 1)
