@@ -1,0 +1,7 @@
+Devem ser geradas as seguintes funções a serem enviadas via LoRa
+
+Solicitação de temperatura com a indicação de qual freezer
+
+Alteração de set de temperatura mínima
+
+Alteração de set de temperatura máxima
