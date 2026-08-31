@@ -1,6 +1,6 @@
-# Projeto Aviso Baixa Tensão Utilizando LoRa
+# Projeto Aviso de Temperatura Fora da Especificação Utilizando LoRa
 
-Dispositivo para identificar queda de tensão em tomada e informar um escravo
+Dispositivo para identificar variação de temperatura e informar um dispositivo receptor
 
 
 
